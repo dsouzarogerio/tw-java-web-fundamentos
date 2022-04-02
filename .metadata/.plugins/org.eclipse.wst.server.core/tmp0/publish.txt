@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Apr 02 17:32:58 BRT 2022
+org.eclipse.jst.j2ee.server\:tw-agenda-repositorios=WEB-INF/lib/tw-agenda-repositorios.jar
+org.eclipse.jst.j2ee.server\:tw-agenda-entidades=WEB-INF/lib/tw-agenda-entidades.jar

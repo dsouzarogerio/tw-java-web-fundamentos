@@ -1,0 +1,8 @@
+package br.com.treinaweb.agenda.servlets;
+
+import jakarta.servlet.http.HttpServlet;
+
+public class MensagemServlet extends HttpServlet {
+	
+
+}

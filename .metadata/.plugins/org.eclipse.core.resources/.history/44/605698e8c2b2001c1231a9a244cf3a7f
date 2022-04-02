@@ -1,0 +1,5 @@
+package br.com.treinaweb.agenda.servlets.agenda;
+
+public class ExcluirContatoServlet {
+
+}
